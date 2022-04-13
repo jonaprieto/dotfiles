@@ -1,0 +1,12 @@
+[submodule "chemacs"]
+	path = chemacs
+	url = git@github.com:jonaprieto/chemacs.git
+[submodule "doom"]
+	path = doom
+	url = git@github.com:jonaprieto/doom.git
+[submodule "fish"]
+	path = fish
+	url = git@github.com:jonaprieto/fish.git
+[submodule "spacemacs"]
+	path = spacemacs
+	url = git@github.com:jonaprieto/spacemacs.git
